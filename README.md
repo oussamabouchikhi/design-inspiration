@@ -144,7 +144,7 @@ A collection of websites and assets to spark creativity.
 ## Patterns
 
 - [Hero Patterns](http://www.heropatterns.com/)
-
+- [Css-doodle](css-doodle.com)
 ### Decorations
 
 - [Box-shadows.CSS](https://github.com/madeas/box-shadows.css "Collection of CSS box-shadows")
